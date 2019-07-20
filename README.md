@@ -4,8 +4,10 @@
 ## They still can not save password properly
 
 **They still can not save password properly for users!**  
-Come on, it is 2019, and this is not the first day of their project.  
-How could they claims their blockchain is Secure!
+Come on, it is 2019-07, and this is not the first day of their project.  
+How could they claim their blockchain is Secure!
+
+
 ![](https://user-images.githubusercontent.com/53112434/61576789-a7874f80-ab10-11e9-9c2f-801b9f4011df.png)
 
 
