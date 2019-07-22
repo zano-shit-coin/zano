@@ -4,11 +4,12 @@
 ## They still can not save password properly
 
 **They still can not save password properly for users!**  
-Come on, it is 2019-07, and this is not the first day of their project.  
+Come on, it is July 17, 2019, and this is not the first day of their project, they have been developing this project for over six months.  
+Six month passed, they even does not have the ability to save the password well for user.  
 How could they claim their blockchain is Secure!
 
 
-![](https://user-images.githubusercontent.com/53112434/61576789-a7874f80-ab10-11e9-9c2f-801b9f4011df.png)
+![](https://user-images.githubusercontent.com/53112434/61601903-1e842b80-ac6a-11e9-97b7-9ed574abd3b3.png)
 
 
 ## Upwork hiring history of their cofunder&core dev(Andrey Sabelnikov,  Zuller Miller) 
