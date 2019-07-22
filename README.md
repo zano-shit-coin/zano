@@ -4,8 +4,8 @@
 ## They still can not save password properly
 
 **They still can not save password properly for users!**  
-Come on, it is July 17, 2019, and this is not the first day of their project, they have been developing this project for over six months.  
-Six month passed, they even does not have the ability to save the password well for user.  
+Come on, it was July 17, 2019, and this is not the first day of their project, they have been developing this project for over six months.  
+Six month passed, they even do not have the ability to save the password well for user.  
 How could they claim their blockchain is Secure!
 
 
